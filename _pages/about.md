@@ -17,10 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-{% include_relative includes/intro.md %}
+I am a third-year PhD student in Department of Computer Science and Engineering at Shanghai Jiao Tong University (SJTU, 上海交通大学), supervised by Prof. [Junchi Yan (严骏驰)](https://thinklab.sjtu.edu.cn/).  I received my bachelor degree from SJTU in 2021, majoring in Computer Science. I also worked as a research intern at Alibaba DAMO Academy.
 
-{% include_relative includes/pub.md %}
-
-{% include_relative includes/honers.md %}
-
-{% include_relative includes/others.md %}
+My research interest lies in deep learning for temporal data modeling, especially for time series and event sequences. If you would like to engage in an academic discussion on these topics, please contact me at [zhangyunhao@sjtu.edu.cn](zhangyunhao@sjtu.edu.cn).
