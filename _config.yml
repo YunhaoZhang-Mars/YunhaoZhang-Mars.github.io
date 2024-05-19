@@ -23,6 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yunhao Zhang"
   avatar           : "images/zyh_profile.jpg"
+  chinese          :  "张昀浩"
   bio              : "Shanghai Jiao Tong University"
   location         : "Shanghai, China"
   employer         :

@@ -136,6 +136,15 @@
   font-size: $type-size-4;
 }
 
+.chinese__name {
+  margin: 0;
+
+  @include breakpoint($large) {
+    margin-top: 5px;
+    margin-bottom: 10px;
+  }
+}
+
 .author__bio {
   margin: 0;
 
