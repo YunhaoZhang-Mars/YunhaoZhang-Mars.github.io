@@ -30,7 +30,7 @@ I serve as the reviewer for conferences (NeurIPS 2023-2024, ICML 2023-2024, ICLR
 
 ## Time Series Modeling
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML-2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML-2024</div><img src='images/blank.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 UP2ME: Univariate Pre-training to Multivariate Fine-tuning as
@@ -42,14 +42,14 @@ a General-purpose Framework for Multivariate Time Series Analysis \\
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR-2023(oral)</div><img src='images/crossformer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR-2023(Oral)</div><img src='images/crossformer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Crossformer: Transformer utilizing cross-dimension dependency for multivariate time series forecasting \\
 **Yunhao Zhang**, Junchi Yan
 - A Transformer that explicitly utilizes cross-dimension(cross-channel) dependency for multivariate time series forecasting.
 
-- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://openreview.net/pdf?id=vSVLM2j9eie) \| [![](https://img.shields.io/github/stars/Thinklab-SJTU/Crossformer?style=social&label=Crossformer)](https://github.com/Thinklab-SJTU/Crossformer)
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://openreview.net/pdf?id=vSVLM2j9eie) \| [![](https://img.shields.io/github/stars/Thinklab-SJTU/Crossformer?style=social&label=Crossformer)](https://github.com/Thinklab-SJTU/Crossformer) | <strong><span class='show_paper_citations' data='LBpsK-UAAAAJ:Tyk-4Ss8FVUC'></span></strong>
 </div>
 </div>
 
