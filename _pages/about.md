@@ -26,18 +26,18 @@ I serve as the reviewer for conferences (NeurIPS 2023-2024, ICML 2023-2024, ICLR
 # 🔥 News
 - *2024.05*: &nbsp;🎉🎉 One paper on time series pre-training and fine-tuning was accepted by ICML-2024!
 
-# 📝 Publications 
+# 📝 Publications
 
 ## Time Series Modeling
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML-2024</div><img src='images/blank.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML-2024</div><img src='images/UP2ME.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 UP2ME: Univariate Pre-training to Multivariate Fine-tuning as
 a General-purpose Framework for Multivariate Time Series Analysis \\
 **Yunhao Zhang**, Minghao Liu, Shengyang Zhou, Junchi Yan
 - A general-purpose framework for multivariate time series analysis: univariate pre-training followed by multivariate fine-tuning.
-
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://openreview.net/pdf?id=aR3uxWlZhX) \| [![](https://img.shields.io/github/stars/Thinklab-SJTU/UP2ME?style=social&label=UP2ME)](https://github.com/Thinklab-SJTU/UP2ME) 
 
 </div>
 </div>
