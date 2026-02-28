@@ -17,18 +17,33 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year PhD student in Department of Computer Science and Engineering at Shanghai Jiao Tong University (SJTU, 上海交通大学), supervised by Prof. [Junchi Yan (严骏驰)](https://thinklab.sjtu.edu.cn/).  I received my bachelor degree from SJTU in 2021, majoring in Computer Science. 
+I am a Ph.D. candidate in the Department of Computer Science and Engineering at Shanghai Jiao Tong University (SJTU, 上海交通大学), supervised by Prof. [Junchi Yan (严骏驰)](https://thinklab.sjtu.edu.cn/).  I received my bachelor degree from SJTU in 2021, majoring in Computer Science. 
 
-My research interest lies in deep learning for temporal data modeling, especially for time series and event sequences. If you would like to engage in an academic discussion on these topics, please contact me at [zhangyunhao@sjtu.edu.cn](zhangyunhao@sjtu.edu.cn).
+My research focuses on deep learning for temporal data modeling, partically time series and event sequences. I have
+published five independent first-authored paper at top-tier conferences (ICLR-23&26,
+ICML-24, IJCAI-21&22), with over **2,100 citations**. Notably, my ICLR-23 paper, ***[Crossformer](https://openreview.net/pdf?id=vSVLM2j9eie)***, has been cited by AI pioneers including Prof. **[Yoshua Bengio](https://yoshuabengio.org/)** ([NeurIPS-23](https://proceedings.neurips.cc/paper_files/paper/2023/file/070a57c5ef1e58cc90201b11d369b3c2-Paper-Conference.pdf)) and Prof. **[Jürgen Schmidhuber](https://people.idsia.ch/~juergen/)** ([ICLR-25](https://openreview.net/pdf?id=dmCGjPFVhF)).
 
-I serve as the reviewer for conferences (NeurIPS 2023-2024, ICML 2023-2024, ICLR 2024) and journals (PR, TKDE).
+I serve as a reviewer for leading conferences (NeurIPS 2023-2025, ICML 2023-2026, ICLR 2024-2026) and journals (TPAMI, JMLR, TMLR, TKDE). I was recognized as a Top Reviewer for NeurIPS-24&25
+
+<span style="color:red">*Update: I expect to graduate in June 2027 and am currently seeking Spring/Summer 2026 internship opportunities in LLMs, quantitative trading, and time-series modeling. Feel free to reach out at [zhangyunhao@sjtu.edu.cn](zhangyunhao@sjtu.edu.cn).*</span>
 
 # 🔥 News
-- *2024.05*: &nbsp;🎉🎉 One paper on time series pre-training and fine-tuning was accepted by ICML-2024!
+- *2026.01*: &nbsp;🎉🎉 One paper on loss functions for diverse time series forecasting was accepted by ICLR-2026!
 
 # 📝 Publications
 
 ## Time Series Modeling
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR-2026</div><img src='images/MMPD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+MMPD: Diverse Time Series Forecasting via Multi-Mode Patch Diffusion Loss \\
+**Yunhao Zhang**, Wenyao Hu, Jiale Zheng, Lujia Pan, Junchi Yan
+- A loss for patch-based time series forecasting backbones to model complex future distributions, enabling them to generate multiple diverse predictions with corresponding probabilities.
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://openreview.net/pdf?id=NEUgHT8dvH) \| [![](https://img.shields.io/github/stars/Thinklab-SJTU/MMPD?style=social&label=MMPD)](https://github.com/Thinklab-SJTU/MMPD) 
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML-2024</div><img src='images/UP2ME.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -106,3 +121,4 @@ Neural Relation Inference for Multi-dimensional Temporal Point Processes via Mes
 
 # 💻 Internships
 - *2021.06 - 2021.09*, Alibaba DAMO Academy, mentor: Dr. [Qingsong Wen (文青松)](https://sites.google.com/site/qingsongwen8/).
+- *2025.07 - 2026.01*, Huawei Noah’s Ark Laboratory, mentor: Dr. [Lujia Pan (潘璐伽)](https://scholar.google.com/citations?hl=zh-CN&user=qnUAFa8AAAAJ) and Dr. [Jiale Zheng (郑嘉乐)](https://scholar.google.com/citations?user=9l2vE2sAAAAJ&hl=zh-CN).
