@@ -21,18 +21,27 @@ I am a Ph.D. candidate in the Department of Computer Science and Engineering at 
 
 My research focuses on deep learning for temporal data modeling, partically time series and event sequences. I have
 published five independent first-authored paper at top-tier conferences (ICLR-23&26,
-ICML-24, IJCAI-21&22), with over **2,100 citations**. Notably, my ICLR-23 paper, ***[Crossformer](https://openreview.net/pdf?id=vSVLM2j9eie)***, has been cited by AI pioneers including Prof. **[Yoshua Bengio](https://yoshuabengio.org/)** ([NeurIPS-23](https://proceedings.neurips.cc/paper_files/paper/2023/file/070a57c5ef1e58cc90201b11d369b3c2-Paper-Conference.pdf)) and Prof. **[Jürgen Schmidhuber](https://people.idsia.ch/~juergen/)** ([ICLR-25](https://openreview.net/pdf?id=dmCGjPFVhF)).
+ICML-24, IJCAI-21&22), with over **2,600 citations**. Notably, my ICLR-23 paper, ***[Crossformer](https://openreview.net/pdf?id=vSVLM2j9eie)***, has been cited by AI pioneers including Prof. **[Yoshua Bengio](https://yoshuabengio.org/)** ([NeurIPS-23](https://proceedings.neurips.cc/paper_files/paper/2023/file/070a57c5ef1e58cc90201b11d369b3c2-Paper-Conference.pdf)) and Prof. **[Jürgen Schmidhuber](https://people.idsia.ch/~juergen/)** ([ICLR-25](https://openreview.net/pdf?id=dmCGjPFVhF)).
 
 I serve as a reviewer for leading conferences (NeurIPS 2023-2025, ICML 2023-2026, ICLR 2024-2026) and journals (TPAMI, JMLR, TMLR, TKDE). I was recognized as a Top Reviewer for NeurIPS-24&25
 
-<span style="color:red">*Update: I expect to graduate in June 2027 and am currently seeking Spring/Summer 2026 internship opportunities in LLMs, quantitative trading, and time-series modeling. Feel free to reach out at [zhangyunhao@sjtu.edu.cn](zhangyunhao@sjtu.edu.cn).*</span>
-
-# 🔥 News
-- *2026.01*: &nbsp;🎉🎉 One paper on loss functions for diverse time series forecasting was accepted by ICLR-2026!
+<span style="color:red">*Update: I am currently interning as a quantitative researcher at Jump Trading Shanghai. I am seeking for a 2026 summer internship or a 2027 full-time position in quantitative trading or time-series modeling. Feel free to reach out at [zhangyunhao@sjtu.edu.cn](zhangyunhao@sjtu.edu.cn).*</span>
 
 # 📝 Publications
 
 ## Time Series Modeling
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Preprint</div><img src='images/UniTok.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Time Series as Language: A Universal Tokenizer for
+General-Purpose Time Series Foundation Models \\
+**Yunhao Zhang**, Ruiying Qi, Jiale Zheng, Jianfeng Zhang, Lujia Pan, Junchi Yan
+- We present UniTok, a universal time series tokenizer that transforms time series into discrete tokens, and UniTok-FM, an LLM-style foundation model pretrained via next-token prediction for training-free in-context forecasting, generation, and classification.
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2606.09861) 
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR-2026</div><img src='images/MMPD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -122,3 +131,4 @@ Neural Relation Inference for Multi-dimensional Temporal Point Processes via Mes
 # 💻 Internships
 - *2021.06 - 2021.09*, Alibaba DAMO Academy, mentor: Dr. [Qingsong Wen (文青松)](https://sites.google.com/site/qingsongwen8/).
 - *2025.07 - 2026.01*, Huawei Noah’s Ark Laboratory, mentor: Dr. [Lujia Pan (潘璐伽)](https://scholar.google.com/citations?hl=zh-CN&user=qnUAFa8AAAAJ) and Dr. [Jiale Zheng (郑嘉乐)](https://scholar.google.com/citations?user=9l2vE2sAAAAJ&hl=zh-CN).
+- *2026.04 - 2026.07*, Jump Trading Shanghai.
